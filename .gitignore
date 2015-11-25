@@ -4,8 +4,16 @@
 
 #Project files
 [Bb]uild/
+*.classpath
+*.project
 [Bb]in/
 /target/
 /.metadata/
 /.settings/
+/Index
+*.xml
 *.class
+!pom.xml
+/db.out
+/db.out.p
+/db.out.t
